@@ -1,0 +1,11 @@
+C:\Users\Undertaker\source\repos\10 практияеская\10 практияеская\bin\Debug\10 практияеская.exe.config
+C:\Users\Undertaker\source\repos\10 практияеская\10 практияеская\bin\Debug\10 практияеская.exe
+C:\Users\Undertaker\source\repos\10 практияеская\10 практияеская\bin\Debug\10 практияеская.pdb
+C:\Users\Undertaker\source\repos\10 практияеская\10 практияеская\obj\Debug\10 практияеская.csproj.AssemblyReference.cache
+C:\Users\Undertaker\source\repos\10 практияеская\10 практияеская\obj\Debug\_10_практияеская.Form1.resources
+C:\Users\Undertaker\source\repos\10 практияеская\10 практияеская\obj\Debug\_10_практияеская.Properties.Resources.resources
+C:\Users\Undertaker\source\repos\10 практияеская\10 практияеская\obj\Debug\_10_практияеская.Screenshot.resources
+C:\Users\Undertaker\source\repos\10 практияеская\10 практияеская\obj\Debug\10 практияеская.csproj.GenerateResource.cache
+C:\Users\Undertaker\source\repos\10 практияеская\10 практияеская\obj\Debug\10 практияеская.csproj.CoreCompileInputs.cache
+C:\Users\Undertaker\source\repos\10 практияеская\10 практияеская\obj\Debug\10 практияеская.exe
+C:\Users\Undertaker\source\repos\10 практияеская\10 практияеская\obj\Debug\10 практияеская.pdb
